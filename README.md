@@ -16,3 +16,5 @@ npm install
 npm start
 
 Then go to: http://localhost:3000
+
+Deployment: https://assignment-1-node-http-server-1.onrender.com/

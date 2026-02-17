@@ -1,0 +1,11 @@
+{
+  "name": "e31-assignment1",
+  "version": "1.0.0",
+  "description": "## Overview Your first project introduces Node.js as a server environment. You’ll create a small, self-contained web server that returns system information dynamically. The focus is on getting comfortable running Node locally, tracking work in Git, and deploying a live version to the web. We'll also include handling query strings and basic routing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
